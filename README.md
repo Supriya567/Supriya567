@@ -1,4 +1,5 @@
 # 💫 About Me:
+Hi, I'm Supriya M
 I’m looking to collaborate on innovative software development projects and open-source contributions.<br>I’m currently learning  DSA in Python, API Integration and Javascript.<br>Ask me about: Java, Python, SQL, Android Development, DBMS.<br>I enjoy turning ideas into real applications and learning new technologies through hands-on projects.
 
 
